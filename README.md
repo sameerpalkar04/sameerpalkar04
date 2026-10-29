@@ -1,19 +1,6 @@
 
 <div align="center">
-
-<!-- HEADER IMAGE PLACEHOLDER: Replace this box with your banner image later -->
-<table width="100%">
-  <tr>
-    <td align="center" height="180" bgcolor="#EAF2FF">
-      <h2>YOUR HEADER IMAGE GOES HERE</h2>
-      <p>Replace this placeholder with your GitHub profile banner</p>
-      <p><sub>Recommended banner size: 1280 × 320 px</sub></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
+  
 # Sameer Palkar
 
 ### Software Engineer @ Oracle
@@ -86,7 +73,6 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="42" alt="React"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="42" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="42" alt="Vite"/>
 
 </div>
 
@@ -132,6 +118,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="42" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="42" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="42" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="42" alt="Postman"/>
 
 </div>

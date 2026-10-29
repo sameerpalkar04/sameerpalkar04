@@ -109,7 +109,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="42" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="42" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" height="42" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-7C3AED?style=for-the-badge&logo=stabilityai&logoColor=white" height="42" alt="Stable Diffusion"/>
 
 </div>
 

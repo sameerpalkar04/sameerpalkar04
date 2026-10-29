@@ -45,12 +45,12 @@
 
 ### Backend Development
 <div>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" alt="Backend technologies"/>
 </div>
 
 ### Frontend Development
 <div>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend technologies"/>
 </div>
 
 ### Databases

@@ -29,9 +29,9 @@
 
 - 💼 Software Engineer at **Oracle Financial Services Software**.
 - 🎓 Computer Science and Engineering graduate from **VIT Vellore**.
-- ☕ Interested in backend engineering, Java, Spring Boot, REST APIs, and microservices.
+- ☕ Experienced in backend engineering, Java, Spring Boot, REST APIs, and microservices.
 - 🌐 Experienced in full-stack development with React, JavaScript, TypeScript, and Node.js.
-- 🤖 Interested in AI, machine learning, and computer vision.
+- 🤖 Passionate about advancements in AI, machine learning, and computer vision.
 - 🚀 Passionate about building reliable software and continuously learning new technologies.
 
 ---

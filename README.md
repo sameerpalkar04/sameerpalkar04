@@ -3,7 +3,7 @@
   
 # Sameer Palkar
 
-### Software Engineer @ Oracle
+### Application Software Engineer - 1 at Oracle 
 
 <a href="https://www.oracle.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" alt="Oracle Logo"/>

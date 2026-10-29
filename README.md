@@ -122,24 +122,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="42" alt="Postman"/>
 
 </div>
-
----
-
-## Core CS Concepts
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=for-the-badge&logo=thealgorithms&logoColor=white" height="42" alt="Data Structures and Algorithms"/>
-<img src="https://img.shields.io/badge/Object--Oriented_Programming-7C3AED?style=for-the-badge&logo=coffeescript&logoColor=white" height="42" alt="Object-Oriented Programming"/>
-<img src="https://img.shields.io/badge/Operating_Systems-3949AB?style=for-the-badge&logo=linux&logoColor=white" height="42" alt="Operating Systems"/>
-<img src="https://img.shields.io/badge/Computer_Networks-0891B2?style=for-the-badge&logo=cisco&logoColor=white" height="42" alt="Computer Networks"/>
-<img src="https://img.shields.io/badge/Database_Systems-CA8A04?style=for-the-badge&logo=databricks&logoColor=white" height="42" alt="Database Systems"/>
-<img src="https://img.shields.io/badge/Computer_Architecture-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="42" alt="Computer Architecture"/>
-<img src="https://img.shields.io/badge/Software_Engineering-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" height="42" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/System_Design-EA580C?style=for-the-badge&logo=diagramsdotnet&logoColor=white" height="42" alt="System Design"/>
-
-</div>
----
 <div align="center">
 
 ### 🤝 Let's Connect

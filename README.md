@@ -56,48 +56,71 @@
 ### 💻 Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css&theme=light" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=light" alt="Backend technologies"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask"/>
 </div>
 
 ### 🎨 Frontend Development
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=light" alt="Frontend technologies"/>
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/>
 </div>
 
 ### 🗄️ Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" alt="Databases"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle SQL"/>
 </div>
 
 ### 🤖 AI / Machine Learning
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" alt="AI and machine learning"/>
+  <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FFFFFF?style=for-the-badge&logo=stabilityai&logoColor=7C3AED" alt="Stable Diffusion"/>
 </div>
 
 ### 🎨 Design & Creative Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,sketchup&theme=light" alt="Figma and SketchUp"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black" alt="Adobe Premiere Pro"/>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
-  <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk"/>
+  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva"/>
+  <img src="https://img.shields.io/badge/SketchUp-FFFFFF?style=for-the-badge&logo=sketchup&logoColor=005F9E" alt="SketchUp"/>
+  <img src="https://img.shields.io/badge/Autodesk-FFFFFF?style=for-the-badge&logo=autodesk&logoColor=0696D7" alt="Autodesk"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-FFFFFF?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-FFFFFF?style=for-the-badge&logo=davinciresolve&logoColor=233A51" alt="DaVinci Resolve"/>
 </div>
 
 ### 🔧 Tools & Platforms
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light" alt="Developer tools"/>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
 </div>
 
 ---
@@ -105,18 +128,17 @@
 ## 📚 Core CS Concepts
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=flat-square" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-7C3AED?style=flat-square" alt="Object Oriented Programming"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-0891B2?style=flat-square" alt="Operating Systems"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-0D9488?style=flat-square" alt="Computer Networks"/>
-  <img src="https://img.shields.io/badge/Database_Systems-CA8A04?style=flat-square" alt="Database Systems"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-DB2777?style=flat-square" alt="Computer Architecture"/>
-  <img src="https://img.shields.io/badge/Software_Engineering-4F46E5?style=flat-square" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Design_%26_Analysis_of_Algorithms-EA580C?style=flat-square" alt="Design and Analysis of Algorithms"/>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFFFFF?style=for-the-badge&logo=thealgorithms&logoColor=2563EB" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-FFFFFF?style=for-the-badge&logo=coffeescript&logoColor=7C3AED" alt="Object-Oriented Programming"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-FFFFFF?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Computer Networks"/>
+  <img src="https://img.shields.io/badge/Database_Systems-FFFFFF?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Database Systems"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-FFFFFF?style=for-the-badge&logo=intel&logoColor=0071C5" alt="Computer Architecture"/>
+  <img src="https://img.shields.io/badge/Software_Engineering-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Software Engineering"/>
+  <img src="https://img.shields.io/badge/System_Design-FFFFFF?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Design_%26_Analysis_of_Algorithms-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Design and Analysis of Algorithms"/>
 </div>
-
 ---
-
 <div align="center">
 
 ### 🤝 Let's Connect

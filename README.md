@@ -11,7 +11,7 @@
 
 **Backend Development × Full-Stack × AI/ML**
 
-<a href="https://www.linkedin.com/in/sameer-palkar/">
+<a href="https://www.linkedin.com/in/sameer-palkar-9707b9286/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:palkarsameer04@gmail.com">
